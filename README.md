@@ -9,7 +9,7 @@ Replica of Nubank App make with React Native
 ![screen-nubank2](https://user-images.githubusercontent.com/34096743/62403841-88ec7400-b566-11e9-8867-dfafceb78e94.png)
 
 ## Instalation
-Use the package manager [npm](https://www.npmjs.com/) to install foobar.
+Use the package manager [npm](https://www.npmjs.com/) to install all dependencies.
 ```bash
 npm install 
 ```
